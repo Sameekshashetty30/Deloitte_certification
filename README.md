@@ -11,4 +11,4 @@ Forensic technology fundamentals for digital investigations
 Analytical reasoning and critical thinking
 Professional communication and presentation of insights
 
-This experience provided hands-on exposure to real-world Deloitte-style projects, strengthening my ability to work with data in consulting and business problem-solving.
+This experience provided hands-on exposure to real-world Deloitte-style projects, strengthening my ability to work with data in consulting and business problem-solving .
